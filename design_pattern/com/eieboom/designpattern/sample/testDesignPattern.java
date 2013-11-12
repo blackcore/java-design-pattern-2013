@@ -4,6 +4,8 @@
 package eieboom.designpattern.sample;
 
 /**
+ * 策略模式
+ * 
  * @author blackcore
  * @date 2013-11-12
  * @describe
